@@ -1,0 +1,21 @@
+1.  Inicio
+2.  funcion principal()
+3.    m, x(100)[{a-z}]
+4.    m <-- "Loja"
+5.    obtenerMensaje()
+6.    Escribir m
+7.  
+8.  fin funcion principal 
+9.  // se define un procedimiento o subrutina
+10.  funcion obtenerMensaje()
+11.     v, x(20)[{a-z}, {BS}]
+12.     y, x(20)[{a-z}, {BS}]
+13.     v <-- "Hola Mundo"
+14.     y <-- " desde Ecuador"
+15.     Escribir v + y
+16. fin funcion obtenerMensaje
+17. Fin
+
+
+//  Hola Mundo desde Ecuador 
+//  Loja
